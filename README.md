@@ -1,11 +1,19 @@
 ## InnerMosaic
-This project is meant to be an exploration of your inner self
-
-Original Hackathon project
+This project is built in 2023 UB Hacking, it's an exploration of your inner self and your mood
 
 Feature:
+- [x] Auth
+- [x] Journaling
+- [x] Chat with guide
+- [x] Emotions/color analyzer
+- [x] Date picking
+- [x] Color matching (for mood) 
 
 Tech Stack
+- React Native
+- MongoDB
+- Flask
+- Tensorflow (training model)
 
 ## To start this project: (frontend)
 1. Go at `.env.sample` and replace the following credentials/API keys, rename to `.env`
@@ -30,6 +38,10 @@ MacOS/Linus: ```source venv/bin/activate```
 8. In terminal, do `flask --app app.py --debug run`
 
 ## Port forwarding for routes:
+Set up your ports in VSCode like the following
 ![Screenshot 2023-11-05 at 6 56 02 PM](https://github.com/bentan1020/innerMosaic/assets/73725152/3d892de2-532c-41cf-9742-7e3483a07204)
 
-Set up your ports in VSCode like the following
+## Notes/Challenges:
+- the 'web' folder is a sales page for our app
+- the 'ai' folder trains an AI model mounted in Collab Notebook
+- mobile and backend serves as an entry way
