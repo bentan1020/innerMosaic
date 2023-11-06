@@ -1,6 +1,8 @@
 ## InnerMosaic
 This project is built in 2023 UB Hacking, it's an exploration of your inner self and your mood
 
+![6BBF49ED-C7F3-4D34-BFEF-8ED42D7752D1_4_5005_c](https://github.com/bentan1020/innerMosaic/assets/73725152/bec5b519-0f84-4854-8a82-b26b4bec00ff)
+
 Feature:
 - [x] Auth
 - [x] Journaling
