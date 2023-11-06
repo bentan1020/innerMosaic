@@ -12,7 +12,7 @@ import re
 load_dotenv()
 
 client = pymongo.MongoClient(
-    os.getenv("MONGODB_URI"),
+    os.environ.get('MONGODB_URI'),
     tlsCAFile=certifi.where(),
 )
 db = client["journals"]

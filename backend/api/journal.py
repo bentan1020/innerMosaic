@@ -7,7 +7,7 @@ from datetime import datetime
 
 # Initialize MongoDB client
 client = pymongo.MongoClient(
-    os.getenv("MONGODB_URI"),
+    os.environ.get('MONGODB_URI'),
     tlsCAFile=certifi.where(),
 )
 db = client["journals"]
