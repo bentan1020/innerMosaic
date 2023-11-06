@@ -1,6 +1,8 @@
 ## InnerMosaic
 This project is built in 2023 UB Hacking, it's an exploration of your inner self and your mood
 
+<br>
+
 <p align="left">
   <img src="https://github.com/bentan1020/innerMosaic/assets/73725152/0bc7c5fe-018e-4498-b569-3e0dc0509c6d" alt="Image 7" width="200" />
   <img src="https://github.com/bentan1020/innerMosaic/assets/73725152/3cc189fc-b7ef-41b5-a456-7c5ad1bc97cf" alt="Image 6" width="200" />
