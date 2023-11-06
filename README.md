@@ -1,7 +1,11 @@
 ## InnerMosaic
 This project is built in 2023 UB Hacking, it's an exploration of your inner self and your mood
 
+<br>
+
 ![6BBF49ED-C7F3-4D34-BFEF-8ED42D7752D1_4_5005_c](https://github.com/bentan1020/innerMosaic/assets/73725152/bec5b519-0f84-4854-8a82-b26b4bec00ff)
+
+<br>
 
 ### Feature:
 - [x] Auth
@@ -47,3 +51,4 @@ Set up your ports in VSCode like the following
 - the 'web' folder is a sales page for our app
 - the 'ai' folder trains an AI model mounted in Collab Notebook
 - mobile and backend serves as an entry way
+- ensure you whitelist your own IP in mongoDB
